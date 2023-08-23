@@ -37,10 +37,7 @@ Otherwise the URL is displayed as a link, which upon a click will download the o
 
 [The Devil's Advocate (1997).mp4](https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tycxzcr86rmsdr4j5kbkup6rl5158vuj&file_id=f_1284885685332)
 
-<video controls autoplay muted>
- <source src="https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tycxzcr86rmsdr4j5kbkup6rl5158vuj&file_id=f_1284885685332" type="video/mp4">
- Your browser does not support the video tag.
-</video>
+https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tycxzcr86rmsdr4j5kbkup6rl5158vuj&file_id=f_1284885685332
 
 - [ ] [Black Jigoku Shoujo.png](https://app.box.com/s/bbrww8hmi42u2fmb38nhe07ex5xnagee)
 
